@@ -43,9 +43,10 @@ DICCIONARIO DE DATOS:
 2.- No_de_investigadores_reconocidos_por_el_snii: Número de investigadores reconocidos por el SNII. 
 
 MODIFICACIONES:
-1.- Para obtener el data frame llamado "investigadores" se entro a cada uno de los archivos Investigadores_vigentes_XXXX,
-posteriormente se extrajo el total de investigadores vigentes para cada año y se fue agregando al data frame "investigadores"
-en el año correspondiente. 
+1.- Para obtener el archivo "investigadores_snii_historico.csv" se entro a cada uno de los archivos 
+"Investigadores_vigentes_XXXX" (los cuales estan en la referencia en formato apa), posteriormente se 
+extrajo el total de investigadores vigentes para cada año y se fue agregando al archivo .csv en el 
+año correspondiente. 
 2.- Se hace un joint con el data frame llamado "patentes" de tipo inner.
 3.- Se elimina la columna "País".
 4.- Se filtra la columna "Año" del menor al mayor.
