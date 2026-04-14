@@ -7,8 +7,8 @@ https://datosabiertos.impi.gob.mx/Paginas/Invenciones_cifras_Mapas.aspx
 
 
 * Autor: Instituto Mexicano de la Propiedad Industrial (IMPI)
-* Datos primarios: 
-* Responsable del cálculo: 
+* Datos primarios: Invenciones en cifras: Solicitudes, Concesiones y Títulos (Serie histórica 1993 - 2025)
+* Responsable del cálculo: Equipo "Los Bits"
 
 FECHA DE DESCARGA:
 13  de abril de 2026
