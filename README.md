@@ -22,17 +22,17 @@ Nuestro objetivo es visivilizar la realidad de México en innovación y educaci�
 ## Datos y Justificación de uso 
 
 
-1.- Tasa de abandono escolar por entidad federativa según nivel educativo
+1.- Tasa de abandono escolar por entidad federativa según nivel educativo: Refleja, en diferentes niveles educativos y estados, la perdida de capacidad intelectual para la inovacion
 
-2.- Archivo Histórico del Sistema Nacional de Investigadoras e Investigadores
+2.- Archivo Histórico del Sistema Nacional de Investigadoras e Investigadores: Muestra la capacidad intelectual por parte de las instituciones publicas a lo largo de los años
 
-3.- Patentes otorgadas por nacionalidad del titular
+3.- Patentes otorgadas por nacionalidad del titular: Permite ver como atravez de los años el acceso a la educacion se ha ido facilitando, dotando a mas gente con las capacidades de inovar
 
-4.- Grado promedio de escolaridad:
+4.- Grado promedio de escolaridad: Permite ver como atravez de los años el acceso a la educacion se ha ido facilitando, dotando a mas gente con las capacidades de inovar
 
-5.- Índice global de innovación:
+5.- Índice global de innovación: Los resultados de inovacion alcanzados en todo el mundo y como se posiciona mexico respecto a otras naciones
 
-6.- Gasto federal en investigación científica y desarrollo experimental como proporción del PIB
+6.- Gasto federal en investigación científica y desarrollo experimental como proporción del PIB: Refleja cuanto de la economia se destina a inovar
 
 
 
@@ -43,11 +43,7 @@ Nuestro objetivo es visivilizar la realidad de México en innovación y educaci�
 
 ## Historia
 
-## ¿Qué visibilizamos?
 
-## Futuros avances
-
-## Fuentes 
 
 ## Metadatos 
 
@@ -59,9 +55,9 @@ Nuestro objetivo es visivilizar la realidad de México en innovación y educaci�
 
 [Grado promedio de escolaridad](./data/escolaridad/metadatos/escolaridad_metadatos.txt)
 
-Índice global de innovación
+[Índice global de innovación](./data/innovacion_indice/metadatos/mendeley_data_nivel_innovación_metadatos.txt)
 
-Gasto federal en investigación científica y desarrollo experimental como proporción del PIB
+[Gasto federal en investigación científica y desarrollo experimental como proporción del PIB](./data/inversion_pib/metadatos/metadatos_9.5.1.txt)
 
 
 
